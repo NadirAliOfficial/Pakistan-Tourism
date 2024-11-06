@@ -1,0 +1,361 @@
+Year,Month,City,Tourist Type,Number of Tourists,Tourist Expenditure (PKR),Accommodation Type,Average Stay Duration (Days),Revenue Generated (PKR),Season,Weather Condition,Festival/Event Influence,Transport Mode Preference,Tourist Satisfaction Rating
+2021,Jan,Islamabad,Domestic,1039,17860,Camping,9,18556540,Winter,Snowy,No,Car,2
+2021,Jan,Lahore,International,522,32916,Guest House,3,17182152,Winter,Rainy,No,Car,3
+2021,Jan,Karachi,International,551,66567,Airbnb,9,36678417,Winter,Rainy,No,Plane,3
+2021,Jan,Murree,Domestic,1230,6804,Airbnb,3,8368920,Winter,Rainy,No,Bus,3
+2021,Jan,Hunza,International,1230,37515,Camping,8,46143450,Winter,Cloudy,No,Train,1
+2021,Jan,Skardu,International,1286,23328,Camping,4,29999808,Winter,Rainy,No,Plane,2
+2021,Jan,Swat,Domestic,2268,4606,Camping,2,10446408,Winter,Snowy,No,Train,4
+2021,Jan,Gilgit,Domestic,858,15403,Airbnb,2,13215774,Winter,Rainy,No,Bus,4
+2021,Jan,Naran,Domestic,1985,8125,Airbnb,8,16128125,Winter,Snowy,No,Train,3
+2021,Jan,Chitral,Domestic,1887,9128,Hotel,3,17224536,Winter,Cloudy,No,Car,2
+2021,Feb,Islamabad,International,637,27295,Guest House,4,17386915,Winter,Snowy,No,Car,4
+2021,Feb,Lahore,Domestic,1074,8667,Airbnb,4,9308358,Winter,Rainy,No,Car,3
+2021,Feb,Karachi,International,1189,35724,Hotel,8,42475836,Winter,Snowy,No,Bus,4
+2021,Feb,Murree,International,1193,57927,Airbnb,6,69106911,Winter,Snowy,No,Plane,3
+2021,Feb,Hunza,International,1468,66708,Hotel,2,97927344,Winter,Cloudy,No,Plane,3
+2021,Feb,Skardu,International,1850,47486,Airbnb,2,87849100,Winter,Snowy,No,Bus,4
+2021,Feb,Swat,Domestic,2067,12559,Guest House,2,25959453,Winter,Snowy,No,Plane,1
+2021,Feb,Gilgit,International,1089,68899,Camping,5,75031011,Winter,Rainy,No,Train,3
+2021,Feb,Naran,International,507,36221,Airbnb,5,18364047,Winter,Snowy,No,Car,1
+2021,Feb,Chitral,International,214,52637,Airbnb,6,11264318,Winter,Snowy,No,Car,3
+2021,Mar,Islamabad,Domestic,2598,7801,Hotel,9,20266998,Spring,Rainy,Yes,Plane,2
+2021,Mar,Lahore,Domestic,1861,12657,Hotel,6,23554677,Spring,Rainy,Yes,Bus,4
+2021,Mar,Karachi,International,789,16435,Hotel,4,12967215,Spring,Rainy,Yes,Car,3
+2021,Mar,Murree,International,736,21154,Hotel,4,15569344,Spring,Cloudy,Yes,Car,2
+2021,Mar,Hunza,Domestic,2944,16529,Guest House,2,48661376,Spring,Rainy,Yes,Train,4
+2021,Mar,Skardu,International,1121,32542,Airbnb,9,36479582,Spring,Sunny,Yes,Train,4
+2021,Mar,Swat,International,937,62880,Guest House,11,58918560,Spring,Rainy,Yes,Car,4
+2021,Mar,Gilgit,International,348,32392,Guest House,9,11272416,Spring,Sunny,Yes,Bus,5
+2021,Mar,Naran,Domestic,1545,17516,Camping,11,27062220,Spring,Rainy,Yes,Plane,4
+2021,Mar,Chitral,International,971,50031,Airbnb,3,48580101,Spring,Rainy,Yes,Plane,1
+2021,Apr,Islamabad,International,287,45531,Hotel,11,13067397,Spring,Sunny,No,Bus,3
+2021,Apr,Lahore,Domestic,512,9203,Airbnb,3,4711936,Spring,Cloudy,No,Train,4
+2021,Apr,Karachi,International,344,26469,Guest House,4,9105336,Spring,Rainy,No,Car,3
+2021,Apr,Murree,International,1041,62557,Guest House,11,65121837,Spring,Rainy,No,Plane,3
+2021,Apr,Hunza,International,284,39230,Hotel,2,11141320,Spring,Cloudy,No,Bus,2
+2021,Apr,Skardu,International,639,16031,Airbnb,10,10243809,Spring,Rainy,No,Car,2
+2021,Apr,Swat,International,1179,56300,Hotel,7,66377700,Spring,Cloudy,No,Bus,3
+2021,Apr,Gilgit,Domestic,1971,14729,Airbnb,3,29030859,Spring,Sunny,No,Car,4
+2021,Apr,Naran,Domestic,1758,4031,Airbnb,6,7086498,Spring,Sunny,No,Bus,3
+2021,Apr,Chitral,International,975,40612,Guest House,11,39596700,Spring,Cloudy,No,Plane,4
+2021,May,Islamabad,International,1174,42841,Camping,10,50295334,Spring,Sunny,No,Train,5
+2021,May,Lahore,International,330,60726,Airbnb,9,20039580,Spring,Sunny,No,Plane,4
+2021,May,Karachi,Domestic,500,10088,Hotel,2,5044000,Spring,Cloudy,No,Bus,1
+2021,May,Murree,International,710,46316,Hotel,6,32884360,Spring,Sunny,No,Train,5
+2021,May,Hunza,International,919,44456,Camping,9,40855064,Spring,Cloudy,No,Car,1
+2021,May,Skardu,International,708,27438,Guest House,9,19426104,Spring,Sunny,No,Plane,4
+2021,May,Swat,Domestic,1736,12026,Guest House,9,20877136,Spring,Cloudy,No,Car,4
+2021,May,Gilgit,Domestic,1287,14802,Hotel,7,19050174,Spring,Cloudy,No,Car,1
+2021,May,Naran,International,1097,19313,Guest House,3,21186361,Spring,Rainy,No,Train,2
+2021,May,Chitral,Domestic,901,12865,Camping,2,11591365,Spring,Rainy,No,Train,4
+2021,Jun,Islamabad,Domestic,4417,15279,Guest House,9,67487343,Summer,Rainy,Yes,Plane,3
+2021,Jun,Lahore,International,560,54803,Airbnb,2,30689680,Summer,Sunny,Yes,Car,3
+2021,Jun,Karachi,International,245,54124,Hotel,2,13260380,Summer,Sunny,Yes,Train,3
+2021,Jun,Murree,Domestic,3904,17918,Guest House,6,69951872,Summer,Cloudy,Yes,Bus,3
+2021,Jun,Hunza,International,783,29814,Camping,6,23344362,Summer,Sunny,Yes,Car,5
+2021,Jun,Skardu,International,448,27057,Guest House,10,12121536,Summer,Sunny,Yes,Bus,4
+2021,Jun,Swat,Domestic,3484,15260,Hotel,5,53165840,Summer,Rainy,Yes,Car,4
+2021,Jun,Gilgit,International,931,54567,Airbnb,8,50801877,Summer,Cloudy,Yes,Car,3
+2021,Jun,Naran,Domestic,3506,4381,Hotel,4,15359786,Summer,Cloudy,Yes,Train,2
+2021,Jun,Chitral,International,610,25190,Guest House,3,15365900,Summer,Cloudy,Yes,Bus,4
+2021,Jul,Islamabad,International,922,27491,Airbnb,2,25346702,Summer,Sunny,No,Car,5
+2021,Jul,Lahore,International,608,46363,Airbnb,4,28188704,Summer,Rainy,No,Car,3
+2021,Jul,Karachi,Domestic,2412,6799,Guest House,6,16399188,Summer,Rainy,No,Car,4
+2021,Jul,Murree,Domestic,2040,7183,Camping,11,14653320,Summer,Rainy,No,Bus,2
+2021,Jul,Hunza,Domestic,2595,4222,Camping,11,10956090,Summer,Cloudy,No,Car,1
+2021,Jul,Skardu,International,543,63916,Guest House,2,34706388,Summer,Sunny,No,Plane,4
+2021,Jul,Swat,International,619,45281,Hotel,5,28028939,Summer,Sunny,No,Bus,3
+2021,Jul,Gilgit,Domestic,3018,16834,Airbnb,11,50805012,Summer,Sunny,No,Train,3
+2021,Jul,Naran,International,849,50517,Guest House,10,42888933,Summer,Rainy,No,Plane,3
+2021,Jul,Chitral,International,531,67447,Camping,9,35814357,Summer,Cloudy,No,Plane,4
+2021,Aug,Islamabad,International,541,44023,Camping,4,23816443,Summer,Cloudy,Yes,Car,4
+2021,Aug,Lahore,International,598,43220,Hotel,4,25845560,Summer,Sunny,Yes,Bus,4
+2021,Aug,Karachi,International,559,46278,Hotel,3,25869402,Summer,Cloudy,Yes,Plane,1
+2021,Aug,Murree,International,1042,67282,Guest House,10,70107844,Summer,Sunny,Yes,Bus,5
+2021,Aug,Hunza,International,460,48964,Guest House,11,22523440,Summer,Rainy,Yes,Train,1
+2021,Aug,Skardu,International,607,31252,Airbnb,2,18969964,Summer,Cloudy,Yes,Car,1
+2021,Aug,Swat,Domestic,2751,9248,Camping,3,25441248,Summer,Rainy,Yes,Train,1
+2021,Aug,Gilgit,International,484,26637,Guest House,2,12892308,Summer,Rainy,Yes,Car,1
+2021,Aug,Naran,Domestic,3392,19285,Camping,6,65414720,Summer,Sunny,Yes,Train,5
+2021,Aug,Chitral,Domestic,3121,17090,Camping,3,53337890,Summer,Cloudy,Yes,Car,3
+2021,Sep,Islamabad,Domestic,1804,10750,Guest House,2,19393000,Autumn,Cloudy,No,Bus,4
+2021,Sep,Lahore,International,866,48381,Guest House,7,41897946,Autumn,Cloudy,No,Bus,3
+2021,Sep,Karachi,Domestic,2309,14057,Camping,11,32457613,Autumn,Rainy,No,Train,3
+2021,Sep,Murree,Domestic,1778,11791,Airbnb,4,20964398,Autumn,Rainy,No,Bus,1
+2021,Sep,Hunza,International,597,24735,Camping,2,14766795,Autumn,Sunny,No,Bus,3
+2021,Sep,Skardu,Domestic,2281,11881,Guest House,11,27100561,Autumn,Rainy,No,Bus,2
+2021,Sep,Swat,International,592,17964,Hotel,9,10634688,Autumn,Cloudy,No,Bus,4
+2021,Sep,Gilgit,International,486,43348,Guest House,9,21067128,Autumn,Rainy,No,Bus,4
+2021,Sep,Naran,Domestic,1407,17289,Airbnb,5,24325623,Autumn,Rainy,No,Car,4
+2021,Sep,Chitral,Domestic,2307,13526,Hotel,10,31204482,Autumn,Rainy,No,Plane,4
+2021,Oct,Islamabad,Domestic,1390,11036,Hotel,4,15340040,Autumn,Sunny,No,Train,3
+2021,Oct,Lahore,Domestic,758,11811,Camping,10,8952738,Autumn,Rainy,No,Plane,4
+2021,Oct,Karachi,Domestic,2297,12658,Airbnb,2,29075426,Autumn,Cloudy,No,Car,4
+2021,Oct,Murree,Domestic,970,11889,Guest House,2,11532330,Autumn,Sunny,No,Car,3
+2021,Oct,Hunza,Domestic,2306,4725,Camping,4,10895850,Autumn,Sunny,No,Plane,5
+2021,Oct,Skardu,International,391,56966,Hotel,11,22273706,Autumn,Sunny,No,Bus,5
+2021,Oct,Swat,Domestic,2128,7869,Hotel,6,16745232,Autumn,Cloudy,No,Plane,2
+2021,Oct,Gilgit,International,777,24092,Guest House,4,18719484,Autumn,Rainy,No,Car,3
+2021,Oct,Naran,Domestic,1055,5590,Camping,9,5897450,Autumn,Cloudy,No,Bus,1
+2021,Oct,Chitral,Domestic,1643,4622,Camping,7,7593946,Autumn,Rainy,No,Car,3
+2021,Nov,Islamabad,Domestic,1816,4270,Hotel,7,7754320,Autumn,Cloudy,No,Car,3
+2021,Nov,Lahore,International,297,69084,Camping,2,20517948,Autumn,Cloudy,No,Bus,4
+2021,Nov,Karachi,International,929,17804,Guest House,3,16539916,Autumn,Cloudy,No,Plane,1
+2021,Nov,Murree,Domestic,815,14688,Guest House,7,11970720,Autumn,Rainy,No,Plane,2
+2021,Nov,Hunza,Domestic,1277,14355,Airbnb,4,18331335,Autumn,Rainy,No,Plane,4
+2021,Nov,Skardu,International,485,27862,Hotel,4,13513070,Autumn,Cloudy,No,Bus,2
+2021,Nov,Swat,International,255,25038,Camping,5,6384690,Autumn,Cloudy,No,Train,1
+2021,Nov,Gilgit,International,702,44866,Camping,3,31495932,Autumn,Cloudy,No,Train,3
+2021,Nov,Naran,Domestic,2006,4759,Camping,8,9546554,Autumn,Sunny,No,Bus,5
+2021,Nov,Chitral,International,835,67804,Guest House,11,56616340,Autumn,Sunny,No,Plane,5
+2021,Dec,Islamabad,Domestic,3464,12095,Guest House,3,41897080,Winter,Snowy,Yes,Bus,2
+2021,Dec,Lahore,Domestic,1543,7947,Hotel,4,12262221,Winter,Snowy,Yes,Car,2
+2021,Dec,Karachi,Domestic,2317,6415,Airbnb,5,14863555,Winter,Rainy,Yes,Train,2
+2021,Dec,Murree,Domestic,3361,7104,Camping,11,23876544,Winter,Rainy,Yes,Plane,2
+2021,Dec,Hunza,Domestic,2029,14210,Guest House,6,28832090,Winter,Cloudy,Yes,Train,3
+2021,Dec,Skardu,International,1197,55532,Camping,4,66471804,Winter,Snowy,Yes,Car,4
+2021,Dec,Swat,International,239,65198,Camping,5,15582322,Winter,Rainy,Yes,Plane,3
+2021,Dec,Gilgit,Domestic,3579,5547,Hotel,6,19852713,Winter,Cloudy,Yes,Plane,3
+2021,Dec,Naran,International,885,23304,Airbnb,9,20624040,Winter,Snowy,Yes,Train,2
+2021,Dec,Chitral,International,937,33502,Hotel,6,31391374,Winter,Cloudy,Yes,Plane,4
+2022,Jan,Islamabad,International,292,53238,Airbnb,5,15545496,Winter,Snowy,No,Car,4
+2022,Jan,Lahore,International,905,51159,Hotel,3,46298895,Winter,Rainy,No,Bus,2
+2022,Jan,Karachi,International,590,30137,Guest House,9,17780830,Winter,Rainy,No,Bus,4
+2022,Jan,Murree,International,1096,36608,Hotel,11,40122368,Winter,Cloudy,No,Bus,1
+2022,Jan,Hunza,Domestic,2113,13461,Camping,9,28443093,Winter,Cloudy,No,Bus,1
+2022,Jan,Skardu,International,1217,55974,Guest House,7,68120358,Winter,Cloudy,No,Bus,3
+2022,Jan,Swat,International,319,64256,Hotel,8,20497664,Winter,Rainy,No,Car,4
+2022,Jan,Gilgit,International,286,55094,Airbnb,5,15756884,Winter,Cloudy,No,Plane,3
+2022,Jan,Naran,International,573,44770,Hotel,7,25653210,Winter,Snowy,No,Car,4
+2022,Jan,Chitral,International,776,39748,Hotel,11,30844448,Winter,Cloudy,No,Car,2
+2022,Feb,Islamabad,Domestic,620,15367,Camping,4,9527540,Winter,Cloudy,No,Plane,1
+2022,Feb,Lahore,Domestic,1814,4214,Airbnb,3,7644196,Winter,Rainy,No,Plane,1
+2022,Feb,Karachi,Domestic,875,5669,Camping,10,4960375,Winter,Snowy,No,Train,3
+2022,Feb,Murree,Domestic,2099,16245,Airbnb,10,34098255,Winter,Snowy,No,Train,3
+2022,Feb,Hunza,International,1095,68065,Camping,11,74531175,Winter,Snowy,No,Plane,2
+2022,Feb,Skardu,Domestic,538,13990,Hotel,2,7526620,Winter,Rainy,No,Car,2
+2022,Feb,Swat,International,769,52199,Hotel,8,40141031,Winter,Cloudy,No,Train,1
+2022,Feb,Gilgit,Domestic,832,4633,Guest House,7,3854656,Winter,Cloudy,No,Plane,3
+2022,Feb,Naran,Domestic,1757,11287,Hotel,9,19831259,Winter,Snowy,No,Plane,1
+2022,Feb,Chitral,International,923,30158,Hotel,2,27835834,Winter,Rainy,No,Plane,1
+2022,Mar,Islamabad,Domestic,3185,8282,Hotel,9,26378170,Spring,Rainy,Yes,Car,2
+2022,Mar,Lahore,International,770,70393,Guest House,8,54202610,Spring,Sunny,Yes,Bus,5
+2022,Mar,Karachi,International,1105,18311,Airbnb,7,20233655,Spring,Rainy,Yes,Bus,1
+2022,Mar,Murree,International,803,24752,Guest House,3,19875856,Spring,Rainy,Yes,Bus,2
+2022,Mar,Hunza,Domestic,2001,5360,Guest House,9,10725360,Spring,Rainy,Yes,Plane,1
+2022,Mar,Skardu,Domestic,1915,5343,Camping,4,10231845,Spring,Rainy,Yes,Car,4
+2022,Mar,Swat,Domestic,2893,12548,Guest House,7,36301364,Spring,Cloudy,Yes,Plane,2
+2022,Mar,Gilgit,Domestic,2712,15302,Airbnb,3,41499024,Spring,Sunny,Yes,Bus,4
+2022,Mar,Naran,Domestic,2709,17423,Camping,9,47198907,Spring,Rainy,Yes,Train,1
+2022,Mar,Chitral,Domestic,1741,15605,Camping,11,27168305,Spring,Rainy,Yes,Train,4
+2022,Apr,Islamabad,International,214,47631,Camping,6,10193034,Spring,Cloudy,No,Train,1
+2022,Apr,Lahore,International,580,59987,Airbnb,8,34792460,Spring,Rainy,No,Train,2
+2022,Apr,Karachi,Domestic,1856,6421,Camping,11,11917376,Spring,Sunny,No,Plane,3
+2022,Apr,Murree,International,888,30985,Hotel,10,27514680,Spring,Sunny,No,Train,5
+2022,Apr,Hunza,International,580,53934,Guest House,2,31281720,Spring,Rainy,No,Plane,4
+2022,Apr,Skardu,Domestic,1215,16993,Guest House,6,20646495,Spring,Rainy,No,Plane,3
+2022,Apr,Swat,Domestic,1126,6336,Airbnb,3,7134336,Spring,Rainy,No,Train,3
+2022,Apr,Gilgit,Domestic,697,11024,Camping,7,7683728,Spring,Rainy,No,Train,2
+2022,Apr,Naran,Domestic,599,14567,Camping,3,8725633,Spring,Cloudy,No,Car,3
+2022,Apr,Chitral,Domestic,2405,16093,Hotel,3,38703665,Spring,Sunny,No,Plane,3
+2022,May,Islamabad,Domestic,910,6895,Guest House,5,6274450,Spring,Cloudy,No,Bus,4
+2022,May,Lahore,International,902,55010,Airbnb,5,49619020,Spring,Sunny,No,Plane,5
+2022,May,Karachi,Domestic,1564,6854,Guest House,3,10719656,Spring,Rainy,No,Plane,2
+2022,May,Murree,Domestic,1586,4364,Hotel,4,6921304,Spring,Cloudy,No,Car,2
+2022,May,Hunza,Domestic,920,10598,Guest House,8,9750160,Spring,Sunny,No,Car,3
+2022,May,Skardu,Domestic,1119,11119,Camping,5,12442161,Spring,Cloudy,No,Car,4
+2022,May,Swat,Domestic,1890,10876,Hotel,11,20555640,Spring,Rainy,No,Car,1
+2022,May,Gilgit,Domestic,1704,8195,Guest House,4,13964280,Spring,Rainy,No,Plane,2
+2022,May,Naran,Domestic,519,16118,Guest House,2,8365242,Spring,Sunny,No,Bus,4
+2022,May,Chitral,Domestic,2280,6466,Hotel,5,14742480,Spring,Rainy,No,Plane,1
+2022,Jun,Islamabad,Domestic,4162,19633,Camping,11,81712546,Summer,Sunny,Yes,Bus,5
+2022,Jun,Lahore,International,724,50124,Camping,7,36289776,Summer,Cloudy,Yes,Car,4
+2022,Jun,Karachi,International,385,64667,Hotel,9,24896795,Summer,Sunny,Yes,Bus,3
+2022,Jun,Murree,Domestic,4183,8414,Guest House,7,35195762,Summer,Cloudy,Yes,Bus,3
+2022,Jun,Hunza,International,867,46578,Hotel,8,40383126,Summer,Rainy,Yes,Train,4
+2022,Jun,Skardu,International,861,23889,Guest House,3,20568429,Summer,Sunny,Yes,Car,4
+2022,Jun,Swat,International,905,32212,Camping,3,29151860,Summer,Rainy,Yes,Car,4
+2022,Jun,Gilgit,Domestic,3321,12878,Hotel,2,42767838,Summer,Cloudy,Yes,Bus,3
+2022,Jun,Naran,Domestic,1894,17186,Airbnb,10,32550284,Summer,Cloudy,Yes,Bus,2
+2022,Jun,Chitral,International,738,61342,Camping,11,45270396,Summer,Sunny,Yes,Bus,3
+2022,Jul,Islamabad,International,1146,17581,Hotel,3,20147826,Summer,Rainy,No,Bus,3
+2022,Jul,Lahore,Domestic,1461,7427,Airbnb,4,10850847,Summer,Rainy,No,Train,3
+2022,Jul,Karachi,Domestic,2616,13537,Airbnb,3,35412792,Summer,Rainy,No,Car,3
+2022,Jul,Murree,International,881,61450,Camping,7,54137450,Summer,Cloudy,No,Plane,1
+2022,Jul,Hunza,Domestic,1870,11737,Hotel,6,21948190,Summer,Sunny,No,Train,3
+2022,Jul,Skardu,Domestic,2413,14776,Airbnb,6,35654488,Summer,Sunny,No,Train,3
+2022,Jul,Swat,Domestic,1943,14664,Guest House,4,28492152,Summer,Cloudy,No,Bus,1
+2022,Jul,Gilgit,Domestic,1709,13308,Airbnb,8,22743372,Summer,Sunny,No,Train,5
+2022,Jul,Naran,International,764,31209,Hotel,2,23843676,Summer,Sunny,No,Plane,4
+2022,Jul,Chitral,Domestic,2178,10141,Guest House,5,22087098,Summer,Sunny,No,Plane,3
+2022,Aug,Islamabad,Domestic,3622,6796,Camping,11,24615112,Summer,Cloudy,Yes,Car,3
+2022,Aug,Lahore,Domestic,1694,14128,Hotel,5,23932832,Summer,Cloudy,Yes,Car,1
+2022,Aug,Karachi,International,813,61442,Camping,4,49952346,Summer,Rainy,Yes,Bus,2
+2022,Aug,Murree,Domestic,3599,15205,Airbnb,11,54722795,Summer,Rainy,Yes,Plane,4
+2022,Aug,Hunza,Domestic,3775,6982,Guest House,8,26357050,Summer,Rainy,Yes,Train,1
+2022,Aug,Skardu,International,1120,40757,Hotel,5,45647840,Summer,Sunny,Yes,Plane,3
+2022,Aug,Swat,Domestic,3641,6658,Camping,2,24241778,Summer,Rainy,Yes,Plane,3
+2022,Aug,Gilgit,International,332,37397,Hotel,7,12415804,Summer,Rainy,Yes,Bus,2
+2022,Aug,Naran,Domestic,2037,4935,Guest House,2,10052595,Summer,Cloudy,Yes,Bus,3
+2022,Aug,Chitral,International,1012,29751,Guest House,5,30108012,Summer,Rainy,Yes,Plane,4
+2022,Sep,Islamabad,Domestic,680,6627,Airbnb,4,4506360,Autumn,Cloudy,No,Car,2
+2022,Sep,Lahore,Domestic,1187,13043,Camping,4,15482041,Autumn,Rainy,No,Car,3
+2022,Sep,Karachi,Domestic,1196,6538,Airbnb,9,7819448,Autumn,Cloudy,No,Car,4
+2022,Sep,Murree,Domestic,1029,5760,Hotel,5,5927040,Autumn,Rainy,No,Bus,1
+2022,Sep,Hunza,Domestic,2050,7422,Camping,8,15215100,Autumn,Sunny,No,Train,3
+2022,Sep,Skardu,Domestic,816,5548,Guest House,8,4527168,Autumn,Sunny,No,Train,3
+2022,Sep,Swat,International,959,22394,Airbnb,7,21475846,Autumn,Cloudy,No,Train,2
+2022,Sep,Gilgit,Domestic,931,11760,Hotel,3,10948560,Autumn,Sunny,No,Plane,3
+2022,Sep,Naran,Domestic,1302,11286,Hotel,5,14694372,Autumn,Sunny,No,Plane,3
+2022,Sep,Chitral,Domestic,1592,13484,Guest House,11,21466528,Autumn,Cloudy,No,Car,3
+2022,Oct,Islamabad,International,770,43646,Camping,4,33607420,Autumn,Rainy,No,Car,3
+2022,Oct,Lahore,Domestic,1741,10496,Guest House,9,18273536,Autumn,Rainy,No,Bus,1
+2022,Oct,Karachi,Domestic,1778,10108,Guest House,9,17972024,Autumn,Cloudy,No,Bus,2
+2022,Oct,Murree,International,777,30037,Hotel,3,23338749,Autumn,Cloudy,No,Car,2
+2022,Oct,Hunza,Domestic,1872,5931,Camping,7,11102832,Autumn,Rainy,No,Train,4
+2022,Oct,Skardu,International,797,22999,Hotel,8,18330203,Autumn,Rainy,No,Plane,4
+2022,Oct,Swat,International,211,54820,Hotel,6,11567020,Autumn,Rainy,No,Plane,2
+2022,Oct,Gilgit,International,618,39107,Guest House,8,24168126,Autumn,Cloudy,No,Plane,1
+2022,Oct,Naran,International,458,56836,Camping,7,26030888,Autumn,Sunny,No,Car,5
+2022,Oct,Chitral,Domestic,2017,17585,Airbnb,3,35468945,Autumn,Rainy,No,Car,1
+2022,Nov,Islamabad,International,456,38277,Guest House,10,17454312,Autumn,Sunny,No,Car,3
+2022,Nov,Lahore,Domestic,1348,7202,Airbnb,2,9708296,Autumn,Sunny,No,Plane,3
+2022,Nov,Karachi,International,1196,57544,Airbnb,9,68822624,Autumn,Rainy,No,Plane,4
+2022,Nov,Murree,Domestic,1215,13453,Airbnb,8,16345395,Autumn,Sunny,No,Plane,3
+2022,Nov,Hunza,Domestic,824,11658,Airbnb,11,9606192,Autumn,Rainy,No,Plane,4
+2022,Nov,Skardu,Domestic,1912,13771,Airbnb,6,26330152,Autumn,Rainy,No,Plane,2
+2022,Nov,Swat,Domestic,2489,5473,Hotel,3,13622297,Autumn,Sunny,No,Train,3
+2022,Nov,Gilgit,Domestic,1115,8358,Camping,7,9319170,Autumn,Sunny,No,Bus,5
+2022,Nov,Naran,International,864,16010,Camping,10,13832640,Autumn,Sunny,No,Bus,5
+2022,Nov,Chitral,Domestic,1094,14992,Guest House,4,16401248,Autumn,Rainy,No,Plane,2
+2022,Dec,Islamabad,Domestic,3669,10189,Hotel,3,37383441,Winter,Rainy,Yes,Plane,3
+2022,Dec,Lahore,Domestic,3316,4407,Guest House,8,14613612,Winter,Snowy,Yes,Bus,3
+2022,Dec,Karachi,International,565,64196,Camping,5,36270740,Winter,Cloudy,Yes,Plane,2
+2022,Dec,Murree,International,1480,31747,Camping,2,46985560,Winter,Cloudy,Yes,Bus,4
+2022,Dec,Hunza,Domestic,1683,14963,Airbnb,6,25182729,Winter,Cloudy,Yes,Car,1
+2022,Dec,Skardu,Domestic,2531,9305,Hotel,3,23550955,Winter,Rainy,Yes,Bus,3
+2022,Dec,Swat,Domestic,1962,14138,Hotel,4,27738756,Winter,Snowy,Yes,Train,4
+2022,Dec,Gilgit,International,936,69939,Airbnb,11,65462904,Winter,Snowy,Yes,Train,2
+2022,Dec,Naran,Domestic,2574,13986,Guest House,11,35999964,Winter,Rainy,Yes,Plane,2
+2022,Dec,Chitral,International,809,43696,Camping,6,35350064,Winter,Cloudy,Yes,Bus,3
+2023,Jan,Islamabad,Domestic,2055,12217,Camping,2,25105935,Winter,Cloudy,No,Train,1
+2023,Jan,Lahore,Domestic,907,14607,Guest House,9,13248549,Winter,Rainy,No,Bus,2
+2023,Jan,Karachi,Domestic,2125,12015,Guest House,4,25531875,Winter,Cloudy,No,Bus,1
+2023,Jan,Murree,International,1015,45203,Hotel,5,45881045,Winter,Snowy,No,Car,2
+2023,Jan,Hunza,Domestic,2131,6329,Airbnb,4,13487099,Winter,Rainy,No,Car,1
+2023,Jan,Skardu,Domestic,1867,10709,Guest House,10,19993703,Winter,Rainy,No,Bus,1
+2023,Jan,Swat,Domestic,2117,6037,Airbnb,2,12780329,Winter,Cloudy,No,Bus,4
+2023,Jan,Gilgit,International,384,48954,Airbnb,3,18798336,Winter,Rainy,No,Plane,1
+2023,Jan,Naran,Domestic,1653,11495,Camping,5,19001235,Winter,Rainy,No,Train,4
+2023,Jan,Chitral,Domestic,646,10223,Hotel,4,6604058,Winter,Cloudy,No,Plane,4
+2023,Feb,Islamabad,Domestic,977,13343,Camping,7,13036111,Winter,Cloudy,No,Train,2
+2023,Feb,Lahore,Domestic,728,8757,Airbnb,2,6375096,Winter,Rainy,No,Train,2
+2023,Feb,Karachi,Domestic,1135,8382,Guest House,6,9513570,Winter,Rainy,No,Plane,4
+2023,Feb,Murree,International,1038,35087,Airbnb,10,36420306,Winter,Cloudy,No,Plane,3
+2023,Feb,Hunza,Domestic,654,14849,Airbnb,10,9711246,Winter,Rainy,No,Plane,2
+2023,Feb,Skardu,Domestic,2389,4099,Guest House,10,9792511,Winter,Snowy,No,Bus,4
+2023,Feb,Swat,Domestic,1347,4807,Airbnb,5,6475029,Winter,Snowy,No,Train,4
+2023,Feb,Gilgit,International,638,60071,Airbnb,9,38325298,Winter,Snowy,No,Bus,2
+2023,Feb,Naran,Domestic,1110,8034,Airbnb,7,8917740,Winter,Cloudy,No,Car,2
+2023,Feb,Chitral,Domestic,2304,5667,Hotel,10,13056768,Winter,Snowy,No,Bus,3
+2023,Mar,Islamabad,International,943,65702,Airbnb,3,61956986,Spring,Rainy,Yes,Train,1
+2023,Mar,Lahore,Domestic,3120,14255,Airbnb,8,44475600,Spring,Rainy,Yes,Train,2
+2023,Mar,Karachi,International,857,16619,Guest House,5,14242483,Spring,Rainy,Yes,Car,2
+2023,Mar,Murree,International,376,30034,Hotel,9,11292784,Spring,Sunny,Yes,Bus,5
+2023,Mar,Hunza,International,955,51817,Guest House,9,49485235,Spring,Cloudy,Yes,Car,4
+2023,Mar,Skardu,Domestic,2660,11501,Airbnb,10,30592660,Spring,Cloudy,Yes,Car,2
+2023,Mar,Swat,International,264,68641,Airbnb,6,18121224,Spring,Cloudy,Yes,Car,2
+2023,Mar,Gilgit,International,222,38215,Hotel,5,8483730,Spring,Cloudy,Yes,Train,4
+2023,Mar,Naran,International,256,34323,Hotel,3,8786688,Spring,Sunny,Yes,Train,3
+2023,Mar,Chitral,Domestic,2319,5138,Airbnb,5,11915022,Spring,Rainy,Yes,Bus,4
+2023,Apr,Islamabad,Domestic,2293,8599,Guest House,11,19717507,Spring,Cloudy,No,Train,2
+2023,Apr,Lahore,International,256,52084,Airbnb,9,13333504,Spring,Sunny,No,Train,4
+2023,Apr,Karachi,Domestic,562,4084,Airbnb,4,2295208,Spring,Rainy,No,Car,4
+2023,Apr,Murree,International,764,68262,Guest House,10,52152168,Spring,Rainy,No,Bus,4
+2023,Apr,Hunza,Domestic,2328,4826,Airbnb,3,11234928,Spring,Cloudy,No,Car,4
+2023,Apr,Skardu,International,1193,54517,Airbnb,5,65038781,Spring,Sunny,No,Train,5
+2023,Apr,Swat,Domestic,1792,6665,Airbnb,7,11943680,Spring,Cloudy,No,Bus,3
+2023,Apr,Gilgit,International,420,26989,Camping,6,11335380,Spring,Cloudy,No,Bus,4
+2023,Apr,Naran,Domestic,2006,9772,Camping,10,19602632,Spring,Cloudy,No,Train,3
+2023,Apr,Chitral,Domestic,1145,6486,Airbnb,6,7426470,Spring,Rainy,No,Car,4
+2023,May,Islamabad,International,845,66618,Airbnb,11,56292210,Spring,Sunny,No,Car,3
+2023,May,Lahore,International,250,20393,Airbnb,4,5098250,Spring,Sunny,No,Car,3
+2023,May,Karachi,Domestic,1749,6873,Hotel,2,12020877,Spring,Sunny,No,Plane,3
+2023,May,Murree,Domestic,2432,5159,Guest House,5,12546688,Spring,Sunny,No,Train,3
+2023,May,Hunza,International,774,69598,Guest House,2,53868852,Spring,Sunny,No,Car,5
+2023,May,Skardu,Domestic,1452,15829,Guest House,2,22983708,Spring,Cloudy,No,Plane,4
+2023,May,Swat,Domestic,652,7284,Airbnb,10,4749168,Spring,Sunny,No,Bus,3
+2023,May,Gilgit,International,595,21171,Camping,4,12596745,Spring,Cloudy,No,Plane,2
+2023,May,Naran,International,1161,37287,Camping,5,43290207,Spring,Rainy,No,Car,1
+2023,May,Chitral,International,451,50980,Guest House,5,22991980,Spring,Sunny,No,Car,3
+2023,Jun,Islamabad,International,651,65196,Hotel,3,42442596,Summer,Rainy,Yes,Plane,1
+2023,Jun,Lahore,International,786,62891,Guest House,5,49432326,Summer,Sunny,Yes,Bus,4
+2023,Jun,Karachi,Domestic,2920,7102,Guest House,2,20737840,Summer,Cloudy,Yes,Bus,1
+2023,Jun,Murree,International,772,28921,Camping,9,22327012,Summer,Rainy,Yes,Bus,3
+2023,Jun,Hunza,Domestic,2500,10242,Airbnb,8,25605000,Summer,Sunny,Yes,Bus,5
+2023,Jun,Skardu,International,758,47405,Camping,3,35932990,Summer,Cloudy,Yes,Plane,4
+2023,Jun,Swat,International,762,35549,Camping,2,27088338,Summer,Sunny,Yes,Bus,5
+2023,Jun,Gilgit,Domestic,2799,17849,Airbnb,2,49959351,Summer,Sunny,Yes,Plane,4
+2023,Jun,Naran,Domestic,2431,20568,Camping,3,50000808,Summer,Sunny,Yes,Train,3
+2023,Jun,Chitral,International,721,39208,Camping,5,28268968,Summer,Cloudy,Yes,Plane,3
+2023,Jul,Islamabad,International,863,15577,Hotel,7,13442951,Summer,Cloudy,No,Bus,3
+2023,Jul,Lahore,Domestic,1664,16514,Airbnb,10,27479296,Summer,Cloudy,No,Car,4
+2023,Jul,Karachi,International,255,48309,Airbnb,9,12318795,Summer,Rainy,No,Train,4
+2023,Jul,Murree,International,463,15243,Guest House,11,7057509,Summer,Rainy,No,Plane,2
+2023,Jul,Hunza,Domestic,2180,16960,Hotel,7,36972800,Summer,Sunny,No,Car,3
+2023,Jul,Skardu,International,1136,65318,Camping,8,74201248,Summer,Rainy,No,Bus,3
+2023,Jul,Swat,Domestic,1780,14737,Airbnb,11,26231860,Summer,Sunny,No,Train,5
+2023,Jul,Gilgit,Domestic,2873,7943,Hotel,5,22820239,Summer,Rainy,No,Bus,2
+2023,Jul,Naran,International,793,18719,Hotel,4,14844167,Summer,Rainy,No,Bus,4
+2023,Jul,Chitral,International,815,15425,Guest House,4,12571375,Summer,Rainy,No,Bus,2
+2023,Aug,Islamabad,Domestic,3163,6331,Camping,8,20024953,Summer,Cloudy,Yes,Car,2
+2023,Aug,Lahore,Domestic,2569,18376,Hotel,2,47207944,Summer,Sunny,Yes,Car,4
+2023,Aug,Karachi,Domestic,3823,20681,Airbnb,9,79063463,Summer,Sunny,Yes,Plane,4
+2023,Aug,Murree,Domestic,3424,19925,Camping,10,68223200,Summer,Sunny,Yes,Train,4
+2023,Aug,Hunza,International,779,71356,Guest House,2,55586324,Summer,Sunny,Yes,Bus,4
+2023,Aug,Skardu,International,308,63401,Guest House,9,19527508,Summer,Rainy,Yes,Car,1
+2023,Aug,Swat,Domestic,2407,11193,Camping,4,26941551,Summer,Rainy,Yes,Bus,2
+2023,Aug,Gilgit,International,989,42357,Camping,9,41891073,Summer,Cloudy,Yes,Car,1
+2023,Aug,Naran,Domestic,2987,17274,Airbnb,10,51597438,Summer,Cloudy,Yes,Bus,3
+2023,Aug,Chitral,International,1154,16497,Airbnb,8,19037538,Summer,Cloudy,Yes,Train,2
+2023,Sep,Islamabad,Domestic,2370,5667,Camping,11,13430790,Autumn,Cloudy,No,Car,2
+2023,Sep,Lahore,International,378,28732,Camping,3,10860696,Autumn,Sunny,No,Car,5
+2023,Sep,Karachi,International,758,43601,Camping,2,33049558,Autumn,Cloudy,No,Car,2
+2023,Sep,Murree,Domestic,547,5674,Hotel,11,3103678,Autumn,Rainy,No,Car,1
+2023,Sep,Hunza,International,1104,27026,Airbnb,3,29836704,Autumn,Cloudy,No,Car,2
+2023,Sep,Skardu,International,937,50061,Camping,2,46907157,Autumn,Rainy,No,Plane,2
+2023,Sep,Swat,International,1010,58891,Hotel,7,59479910,Autumn,Cloudy,No,Bus,4
+2023,Sep,Gilgit,Domestic,2047,16573,Hotel,11,33924931,Autumn,Cloudy,No,Bus,1
+2023,Sep,Naran,International,1084,44824,Camping,11,48589216,Autumn,Cloudy,No,Train,4
+2023,Sep,Chitral,International,684,16389,Hotel,7,11210076,Autumn,Sunny,No,Bus,5
+2023,Oct,Islamabad,International,833,61343,Hotel,5,51098719,Autumn,Rainy,No,Train,4
+2023,Oct,Lahore,Domestic,870,8335,Camping,2,7251450,Autumn,Rainy,No,Bus,1
+2023,Oct,Karachi,International,346,20278,Guest House,9,7016188,Autumn,Cloudy,No,Bus,3
+2023,Oct,Murree,International,386,63149,Airbnb,2,24375514,Autumn,Cloudy,No,Plane,1
+2023,Oct,Hunza,International,874,52630,Guest House,5,45998620,Autumn,Rainy,No,Bus,1
+2023,Oct,Skardu,Domestic,1289,10442,Hotel,9,13459738,Autumn,Cloudy,No,Train,3
+2023,Oct,Swat,Domestic,1218,5620,Camping,7,6845160,Autumn,Sunny,No,Bus,3
+2023,Oct,Gilgit,International,254,57750,Airbnb,7,14668500,Autumn,Cloudy,No,Train,1
+2023,Oct,Naran,International,304,64967,Airbnb,4,19749968,Autumn,Sunny,No,Car,4
+2023,Oct,Chitral,International,661,16447,Airbnb,11,10871467,Autumn,Sunny,No,Car,3
+2023,Nov,Islamabad,International,600,17045,Hotel,10,10227000,Autumn,Sunny,No,Car,3
+2023,Nov,Lahore,International,204,52341,Guest House,3,10677564,Autumn,Cloudy,No,Bus,2
+2023,Nov,Karachi,International,934,58340,Camping,3,54489560,Autumn,Cloudy,No,Bus,4
+2023,Nov,Murree,International,656,31760,Camping,7,20834560,Autumn,Rainy,No,Bus,1
+2023,Nov,Hunza,Domestic,1601,12914,Airbnb,7,20675314,Autumn,Cloudy,No,Train,1
+2023,Nov,Skardu,Domestic,2115,10439,Airbnb,7,22078485,Autumn,Sunny,No,Bus,5
+2023,Nov,Swat,International,774,48070,Camping,4,37206180,Autumn,Sunny,No,Train,3
+2023,Nov,Gilgit,International,940,26645,Airbnb,3,25046300,Autumn,Cloudy,No,Bus,4
+2023,Nov,Naran,Domestic,974,12084,Airbnb,6,11769816,Autumn,Sunny,No,Plane,3
+2023,Nov,Chitral,Domestic,635,5528,Hotel,8,3510280,Autumn,Sunny,No,Plane,3
+2023,Dec,Islamabad,International,655,68163,Guest House,9,44646765,Winter,Snowy,Yes,Train,2
+2023,Dec,Lahore,International,458,39642,Airbnb,5,18156036,Winter,Rainy,Yes,Train,2
+2023,Dec,Karachi,Domestic,1494,4786,Airbnb,6,7150284,Winter,Cloudy,Yes,Car,1
+2023,Dec,Murree,Domestic,3026,8615,Airbnb,6,26068990,Winter,Rainy,Yes,Bus,4
+2023,Dec,Hunza,Domestic,2598,14950,Guest House,5,38840100,Winter,Snowy,Yes,Bus,3
+2023,Dec,Skardu,Domestic,1878,11211,Guest House,3,21054258,Winter,Rainy,Yes,Train,2
+2023,Dec,Swat,International,614,36158,Camping,3,22201012,Winter,Cloudy,Yes,Train,2
+2023,Dec,Gilgit,International,638,50571,Airbnb,2,32264298,Winter,Snowy,Yes,Train,3
+2023,Dec,Naran,International,354,34815,Airbnb,7,12324510,Winter,Snowy,Yes,Bus,1
+2023,Dec,Chitral,International,979,57309,Hotel,4,56105511,Winter,Rainy,Yes,Car,1
