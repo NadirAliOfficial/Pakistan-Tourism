@@ -25,7 +25,7 @@ plt.show()
 
 satisfaction_accommodation = df.groupby('Accommodation Type')['Tourist Satisfaction Rating'].mean()
 
-# Plotting 
+# Plotting
 satisfaction_accommodation.plot(kind='bar', color='coral', rot=45)
 plt.title('Average Tourist Satisfaction by Accommodation Type')
 plt.xlabel('Accommodation Type')
@@ -112,7 +112,7 @@ revenue_by_tourist_type = df.groupby('Tourist Type')['Revenue Generated (PKR)'].
 # Plotting
 revenue_by_tourist_type.plot(kind='pie', autopct='%1.1f%%', colors=['#ffcc99', '#66b3ff'], startangle=140)
 plt.title('Revenue Contribution by Tourist Type')
-plt.ylabel('') 
+plt.ylabel('')
 plt.show()
 
 
