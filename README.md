@@ -43,3 +43,54 @@ CSV sourced from Pakistan Tourism Development Corporation (PTDC) public data.
 ## License
 
 MIT
+
+## Description
+
+This project performs exploratory data analysis on Pakistan tourism statistics, generating visual insights such as visitor trends, top destinations, revenue distribution, and seasonal patterns. It provides both a Jupyter notebook for detailed analysis and a Streamlit GUI for interactive exploration.
+
+## Features
+
+- Load and clean tourism dataset
+- Generate multiple visualizations (bar, line, pie, heatmap)
+- Identify top destinations and revenue contributors
+- Analyze seasonal and yearly trends
+- Interactive dashboard via Streamlit GUI
+
+## Requirements
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- streamlit (for the GUI)
+- jupyter (for notebooks)
+
+## Installation
+
+```bash
+pip install pandas numpy matplotlib seaborn streamlit jupyter
+```
+
+## Usage
+
+- Run the analysis script:
+  ```bash
+  python script.py
+  ```
+- Launch the interactive GUI:
+  ```bash
+  streamlit run gui.py
+  ```
+- Open the notebooks (`data.ipynb` or `project.ipynb`) in Jupyter to explore the full analysis.
+
+## Project Structure
+
+- `README.md` – Project overview and documentation
+- `Readme.md` – Alternate README with extended description
+- `script.py` – Standalone analysis script generating plots
+- `gui.py` – Streamlit application for interactive visualizations
+- `style.css` – CSS styling for the GUI
+- `pakistan_tourism_data.csv` – Dataset source file
+- `data.ipynb` – Main EDA notebook
+- `project.ipynb` – Full analysis notebook with visualizations
+- `LICENSE` – MIT license file
